@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JunaidMalik
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently working to improve my skillset in the above mentioned field.
+- 🌱 Learning never stops.
 - 📫 How to reach me junaidravian997@gmail.com
 
 <!---
